@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://digontomozumdar.github.io/sitemap.xml
